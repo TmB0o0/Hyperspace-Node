@@ -10,6 +10,8 @@
 | OS        | Ubuntu 24.04  |
 | Port      | 50051         |
 
+Video guide: https://x.com/TmBO0o/status/1907694843213611501
+
 ### 1. System Update 🖥️
 Before starting the installation, ensure your system is up to date:
 ```bash
