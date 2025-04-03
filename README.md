@@ -36,7 +36,7 @@ Before starting the installation **you need to obtain your private key** . Perfo
 
 ### 4. install Hyperspace Node ⚙️
 ```bash
-curl -sL -o hyperspace https://raw.githubusercontent.com/TmB0o0/Hyperspace-Node-/refs/heads/main/hyperspace
+curl -sL -o hyperspace https://raw.githubusercontent.com/TmB0o0/Hyperspace-Node/refs/heads/main/hyperspace
 chmod +x hyperspace
 ./hyperspace
 ```
